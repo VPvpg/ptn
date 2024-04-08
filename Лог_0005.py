@@ -1,4 +1,5 @@
 # https://poe.com/s/Fm2aIqyMN5HqhSpFdFRv
+# прикольно, можно прям в тут редактировать ;)
 import tkinter as tk
 from datetime import datetime
 
