@@ -1,4 +1,6 @@
 Сюда тупо скидываю свои наработки.
 На всякий случай ;)
 
-[https://github.com/VPvpg/ptn.wiki.git](https://github.com/VPvpg/ptn.wiki.git)
+Википедия по этому поводу:
+[https://github.com/VPvpg/ptn.wiki]([https://github.com/VPvpg/ptn.wiki))
+
