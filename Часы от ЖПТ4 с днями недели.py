@@ -1,3 +1,5 @@
+# https://chatgpt.com/c/7b850cd1-2e00-4677-b12a-003968cff067
+
 import tkinter as tk
 import time
 import math
