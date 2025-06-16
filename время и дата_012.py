@@ -12,7 +12,7 @@ def update_time():
     """Обновляет время, дату и индикатор"""
     current_time = datetime.now()
     weekdays = ["_пн_", "_вт_", "_ср_", "_чт.", "_птн_", "_сб_", "_вс_"]
-    time_string = current_time.strftime("%H:%M %a %d-%m-%Y")
+    time_string = current_time.strftime("%H:%M %a %d.%m.%Y")
     time_string = time_string.replace("Mon", weekdays[0])
     time_string = time_string.replace("Tue", weekdays[1])
     time_string = time_string.replace("Wed", weekdays[2])
