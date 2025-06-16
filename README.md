@@ -5,12 +5,6 @@
 
 [https://github.com/VPvpg/ptn.wiki]([https://github.com/VPvpg/ptn.wiki)
 
-=
 
-0002.zip
-
-Блокирует рекламу в браузере хром.
-
-=
 
 
