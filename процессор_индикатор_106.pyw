@@ -8,7 +8,7 @@ prev_time = time.time()
 
 root = tk.Tk()
 root.title("Системные индикаторы")
-root.geometry("800x300+100+100")
+root.geometry("300x300+100+100")
 root.attributes("-topmost", True)
 root.attributes("-alpha", 0.8)
 
