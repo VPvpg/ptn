@@ -1,3 +1,9 @@
+"""
+pip install psutil
+
+Выводит индикаторы по процессору,ОЗУ, винту и тырнету.
+"""
+
 import tkinter as tk
 import psutil
 import time
